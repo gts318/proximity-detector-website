@@ -1,10 +1,14 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 header {
     background-color: coral;
 }
 
 header .content {
     margin: auto 30px;
-    font-family: Tiny5;
+    font-family: "Kode Mono";
 }
 
 .logo {
@@ -33,6 +37,10 @@ header li {
 header a {
     color: white;
     text-decoration: none;
+}
+
+.main-content {
+    padding: 0 3%;
 }
 
 .main-content img {
